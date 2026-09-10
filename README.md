@@ -1,5 +1,26 @@
 # 🎓 Smart Attendance System
 
+
+A complete **face-recognition attendance system** for students...
+
+## 📚 Table of Contents
+
+- [🎓 Smart Attendance System](#-smart-attendance-system)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Setup](#️-setup-step-by-step)
+  - [1. Create & Activate the Virtual Environment](#1-create--activate-the-virtual-environment)
+  - [2. Install Dependencies](#2-install-dependencies)
+  - [3. Configure](#3-configure-optional)
+  - [4. Run the Server](#4-run-the-server)
+- [🧪 Verifying Each Layer Before the UI](#-verifying-each-layer-before-the-ui)
+  - [Test the API with curl](#test-the-api-with-curl)
+- [🔌 API Reference](#-api-reference)
+- [🧠 How Recognition Works](#-how-recognition-works)
+  - [Locked-down / Offline Environments](#locked-down--offline-environments)
+- [🐛 Troubleshooting](#-troubleshooting)
+
+
+
 A complete **face-recognition attendance system** for students. Register a
 student's face once, then let a live camera recognise them and mark
 attendance automatically — with a modern, animated web UI.
