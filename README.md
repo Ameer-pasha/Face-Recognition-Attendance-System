@@ -1,7 +1,9 @@
 # 🎓 Smart Attendance System
 
+A complete **face-recognition attendance system** for students. Register a
+student's face once, then let a live camera recognise them and mark
+attendance automatically — with a modern, animated web UI.
 
-A complete **face-recognition attendance system** for students...
 
 ## 📚 Table of Contents
 
@@ -21,9 +23,7 @@ A complete **face-recognition attendance system** for students...
 
 
 
-A complete **face-recognition attendance system** for students. Register a
-student's face once, then let a live camera recognise them and mark
-attendance automatically — with a modern, animated web UI.
+
 
 | Layer | Tech |
 |---|---|
