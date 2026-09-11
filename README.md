@@ -5,6 +5,7 @@ student's face once, then let a live camera recognise them and mark
 attendance automatically — with a modern, animated web UI.
 
 
+
 ## 📚 Table of Contents
 
 - [🎓 Smart Attendance System](#-smart-attendance-system)
